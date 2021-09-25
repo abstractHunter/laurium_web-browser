@@ -2,7 +2,7 @@
 A simple web browser made with Python and PyQt5
 
 ### Run the app : 
-#### * These commands are for Unix-based systems
+#### After cloning the project, follow these steps in the project directory
  - Create a virtual environnement with `python3 -m venv env`
  - Activate it with `source env/bin/activate`
  - Install required packages with `pip install -r requirements.txt`
