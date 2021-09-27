@@ -126,7 +126,7 @@ class MyWebBrowser:
         
 app = Widgets.QApplication(sys.argv)
 app.setApplicationName("Laurium Web Browser")
-app.setApplicationVersion("2.0")
+app.setApplicationVersion("2.0.0")
 window = MyWebBrowser()
 app.exec_()
         
