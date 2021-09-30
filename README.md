@@ -11,4 +11,4 @@ A simple web browser made with Python and PyQt5.
  - Launch the app with `python web-browser.py` or `python3 web-browser.py`.
  - You can deactivate your virtual environnement just by running `deactivate`.
  
-Note: You must have Python 3 installed on your computer.
+Note: You must have Python3 installed on your computer.
